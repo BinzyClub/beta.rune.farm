@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4e4a062.chunk.css",
+    "main.js": "/static/js/main.44e2b66e.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.68448c53.js",
+    "static/js/2.cb360f3e.chunk.js": "/static/js/2.cb360f3e.chunk.js",
+    "static/js/3.d5f5e6d1.chunk.js": "/static/js/3.d5f5e6d1.chunk.js",
+    "static/js/4.f33eb76b.chunk.js": "/static/js/4.f33eb76b.chunk.js",
+    "static/js/5.65b2ffc2.chunk.js": "/static/js/5.65b2ffc2.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.cb360f3e.chunk.js.LICENSE.txt": "/static/js/2.cb360f3e.chunk.js.LICENSE.txt",
+    "static/js/3.d5f5e6d1.chunk.js.LICENSE.txt": "/static/js/3.d5f5e6d1.chunk.js.LICENSE.txt",
+    "static/js/4.f33eb76b.chunk.js.LICENSE.txt": "/static/js/4.f33eb76b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/ExocetReaperMedium.c0db6f63.woff",
+    "static/media/action.f5ab5f35.mp3": "/static/media/action.f5ab5f35.mp3",
+    "static/media/cubing.dab6536b.mp3": "/static/media/cubing.dab6536b.mp3",
+    "static/media/select.c8ffb6ab.mp3": "/static/media/select.c8ffb6ab.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68448c53.js",
+    "static/js/2.cb360f3e.chunk.js",
+    "static/css/main.d4e4a062.chunk.css",
+    "static/js/main.44e2b66e.chunk.js"
+  ]
+}
